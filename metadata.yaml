@@ -1,0 +1,49 @@
+_repo: The-Phoenix-and-the-Carpet_836
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nesbit, E. (Edith)
+    aliases:
+    - Nesbit, Edith
+    - Bland, Edith Nesbit
+    birthdate: 1858
+    deathdate: 1924
+    gutenberg_agent_id: '407'
+    url: http://www.gutenberg.org/2009/agents/407
+    wikipedia: http://en.wikipedia.org/wiki/E._Nesbit
+description: "The Phoenix and the Carpet is a fantasy novel for children, written\
+  \ by E. Nesbit and first published in 1904. It is the second in a trilogy of novels\
+  \ that begins with Five Children and It (1902), and follows the adventures of the\
+  \ same five children: Cyril, Anthea, Robert, Jane and the Lamb. Their mother buys\
+  \ the children a new carpet to replace one from the nursery that they have destroyed\
+  \ in an accidental fire. The children find an egg in the carpet, which hatches into\
+  \ a talking Phoenix. The Phoenix explains that the carpet is a magic one that will\
+  \ grant them three wishes a day. The five children go on many adventures, which\
+  \ eventually wears out their magic carpet. The adventures are continued and concluded\
+  \ in the third book of the trilogy, The Story of the Amulet (1906).\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf:
+- Children's Fiction
+- Children's Literature
+gutenberg_issued: '1997-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '836'
+  wikidata: Q3795974
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Edward VII, 1901-1910 -- Juvenile fiction'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Phoenix (Mythical bird) -- Juvenile fiction'
+- !lcsh 'Fantasy fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Phoenix and the Carpet
+url: http://www.gutenberg.org/ebooks/836
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Phoenix_and_the_Carpet
